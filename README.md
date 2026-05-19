@@ -12,7 +12,7 @@ This is my personal profile where I share my academic projects, experiments, and
 
 * **Languages:** Java, Python
 * **Frameworks & Libraries:** Spring Boot, Django
-* **Database:** Postgre
+* **Database:** PostgreSQL
 
 ---
 
