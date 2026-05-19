@@ -1,16 +1,25 @@
-## Hi there 👋
+md_content = """# Hey there 👋
 
-<!--
-**DungChau523/dungchau523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dungchauu, a sophomore student based in Ho Chi Minh City, Vietnam.
 
-Here are some ideas to get you started:
+I'm currently focusing on both Web and Mobile development, with the ultimate goal of becoming a professional Backend Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is my personal profile where I share my academic projects, experiments, and technical journeys. Everything here is built with a focus on clean logic and robust architecture.
+
+---
+
+### Tools & Tech
+
+* **Languages:** Java, Python
+* **Frameworks & Libraries:** Spring Boot, React
+* **Design & Prototyping:** Figma
+
+---
+
+### A Bit About Me
+
+* 🎮 Passionate about gaming and exploring new virtual worlds
+* ✈️ Love traveling and discovering new places
+* 😴 Sleeping is my ultimate way to recharge energy
+* 🪵 **Philosophy:** I strive for minimalism, creating things that are highly useful and simple enough for everyone to easily understand.
+"""
