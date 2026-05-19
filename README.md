@@ -2,7 +2,7 @@
 
 I'm Dungchauu, a sophomore student based in Ho Chi Minh City, Vietnam.
 
-I'm currently focusing on both Web and Mobile development, with the ultimate goal of becoming a professional Backend Developer. 
+I'm currently focusing on both Web and Mobile development, with the ultimate goal of becoming a Backend Developer. 
 
 This is my personal profile where I share my academic projects, experiments, and technical journeys.
 
