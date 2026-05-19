@@ -11,8 +11,8 @@ This is my personal profile where I share my academic projects, experiments, and
 ### Tools & Tech
 
 * **Languages:** Java, Python
-* **Frameworks & Libraries:** Spring Boot, React
-* **Design & Prototyping:** Figma
+* **Frameworks & Libraries:** Spring Boot, Django
+* **Database:** Postgre
 
 ---
 
